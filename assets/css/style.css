@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: navy;
+  background: rgba(158, 27, 27, 0.774);
   width: 40px;
   height: 40px;
   border-radius: 4px;
