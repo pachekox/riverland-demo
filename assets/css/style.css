@@ -1194,7 +1194,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #090909;
+  background: navy;
   color: #fff;
   font-size: 14px;
   text-align: center;
@@ -1221,7 +1221,7 @@ section {
 }
 #footer .social-links a {
   font-size: 18px;
-  display: inline
+  display: inline;
   color: #fff;
   line-height: 1;
   padding: auto;
